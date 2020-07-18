@@ -1,6 +1,6 @@
 ### Check out my blog: https://blog.crankshafttech.com
-## Founder of Crankshaft Technology 💻
-## Currently at Robotics Playground 🤖
+# Founder of Crankshaft Technology 💻
+# Currently at Robotics Playground 🤖
 
 
 
