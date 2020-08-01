@@ -3,7 +3,7 @@
 ### Currently at Robotics Playground 🤖
 
 
-[![Donate](paypal-donate-button_small.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=harrisonasmar%40gmail.com&item_name=Donations&currency_code=AUD&source=url)
+[![Donate](paypal-donate-button_smallest.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=harrisonasmar%40gmail.com&item_name=Donations&currency_code=AUD&source=url)
 
 <!--
 **hasmar04/hasmar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
