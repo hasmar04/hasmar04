@@ -3,6 +3,7 @@
 ### Currently at Robotics Playground 🤖
 
 
+![Donate](paypal-donate-button_small.png)
 
 <!--
 **hasmar04/hasmar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
