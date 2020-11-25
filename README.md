@@ -1,5 +1,4 @@
 ## Check out my blog: https://blog.crankshafttech.com
-[![Donate](https://raw.githubusercontent.com/hasmar04/hasmar04/master/paypal-donate-button_smallest.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=harrisonasmar%40gmail.com&item_name=Donations&currency_code=AUD&source=url)
 ### Founder of Crankshaft Technology 💻
 ### Currently at Robotics Playground 🤖
 
