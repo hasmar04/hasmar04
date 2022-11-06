@@ -3,12 +3,12 @@
 ### Founder of Crankshaft Technology 💻
 ### Currently at Robotics Playground 🤖
 
-<br>
+<div align="center">
 <!--Dynamic Account Statistics-->
 <!-- If you forked this repo, Change the username as yours -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasmar04&theme=radical&langs_count=3" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasmar04&show_icons=true&theme=radical&line_height=27" />
-<br>
+</div>
 <!--
 **hasmar04/hasmar04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
