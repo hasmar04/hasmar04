@@ -1,7 +1,6 @@
 [![Sponsor Me](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&link=https://www.github.com/sponsors/hasmar04)](https://github.com/sponsors/hasmar04)
 ## Check out my blog: https://blog.crankshafttech.com
 ### Founder of Crankshaft Technology 💻
-### Currently at Robotics Playground 🤖
 
 <div align="center">
 <!--Dynamic Account Statistics-->
